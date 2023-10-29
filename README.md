@@ -1,6 +1,6 @@
 # Landing Page
 
-This is a landing page built using **HTML 5**, **CSS 3**, **Bootstrap 5**, and **Sass**.
+This landing page is built using **HTML 5**, **CSS 3**, **Bootstrap 5**, and **Sass**.
 
 ![plot](https://github.com/BobsProgrammingAcademy/landing-page-bootstrap-sass/blob/master/images/main.png?raw=true)
 
@@ -18,13 +18,13 @@ Install the following prerequisites:
 1. [Node.js](https://nodejs.org/en/)
 2. [Visual Studio Code](https://code.visualstudio.com/download) with two extensions installed: **Live Server** and **Live Sass Compiler**.
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) allows us to launch a local development server that enables a live reload of our project.
-* [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass) allows us to compile Sass files to CSS files in real-time. It will watch a Sass file for changes, and then it will automatically compile that Sass file into a CSS file whenever a change is made and saved.
+* [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass) allows us to compile Sass files to CSS files in real time. It will watch a Sass file for changes, and then it will automatically compile that Sass file into a CSS file whenever a change is made and saved.
 
 ### Installation
 
 #### Install required dependencies
 
-From the **root** directory run:
+From the **root** directory, run:
 
 ```bash
 npm install
