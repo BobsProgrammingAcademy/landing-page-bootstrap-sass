@@ -1,6 +1,6 @@
 # Landing Page
 
-This landing page is built using **HTML 5**, **CSS 3**, **Bootstrap 5**, and **Sass**.
+This is a landing page built using **HTML 5**, **CSS 3**, **Bootstrap 5**, and **Sass**.
 
 ![plot](https://github.com/BobsProgrammingAcademy/landing-page-bootstrap-sass/blob/master/images/main.png?raw=true)
 
