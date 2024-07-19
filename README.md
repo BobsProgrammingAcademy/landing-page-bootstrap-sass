@@ -11,7 +11,7 @@ This is a landing page built using **HTML 5**, **CSS 3**, **Bootstrap 5**, and *
 - [Running the application](#run-the-application)
 - [Copyright and License](#copyright-and-license)
 
-### Prerequisites
+## Prerequisites
 
 Install the following prerequisites:
 
@@ -20,9 +20,9 @@ Install the following prerequisites:
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) allows us to launch a local development server that enables a live reload of our project.
 * [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass) allows us to compile Sass files to CSS files in real-time. It will watch a Sass file for changes, and then it will automatically compile that Sass file into a CSS file whenever a change is made and saved.
 
-### Installation
+## Installation
 
-#### Install required dependencies
+### Install required dependencies
 
 From the **root** directory, run:
 
@@ -30,16 +30,16 @@ From the **root** directory, run:
 npm install
 ```
 
-### Run the application
+## Run the application
 
 To run the application, start the **Live Server** by clicking **Go Live** in the bottom right corner of the status bar in Visual Studio Code. This action will load the website in your default web browser.
 
 ![plot](https://github.com/BobsProgrammingAcademy/landing-page-bootstrap-sass/blob/master/images/vscode.png?raw=true)
 
-### View the application
+## View the application
 
 Once the **Live Server** is up and running, go to http://127.0.0.1:5500/index.html to view the application.
 
-### Copyright and License
+## Copyright and License
 
 Copyright © 2023 Bob's Programming Academy. Code released under the MIT license.
